@@ -1,0 +1,46 @@
+{
+    "href": "https://api.spotify.com/v1/users/pukelodice/playlists?offset=0&limit=5&locale=en-US,en;q%3D0.9,de;q%3D0.8",
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/users/pukelodice/playlists?offset=5&limit=5&locale=en-US,en;q%3D0.9,de;q%3D0.8",
+    "offset": 0,
+    "previous": null,
+    "total": 123,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0ssVRAtYdUMnXcqP64QeGw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0ssVRAtYdUMnXcqP64QeGw",
+            "id": "0ssVRAtYdUMnXcqP64QeGw",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84891c2687f798a42a3c1a74bf",
+                    "width": null
+                }
+            ],
+            "name": "TPNE - My Deluxe",
+            "owner": {
+                "display_name": "pukelodice",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/pukelodice"
+                },
+                "href": "https://api.spotify.com/v1/users/pukelodice",
+                "id": "pukelodice",
+                "type": "user",
+                "uri": "spotify:user:pukelodice"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAOo9aN7IxeH+9eLLAfCLkt5TatZIV",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0ssVRAtYdUMnXcqP64QeGw/tracks",
+                "total": 55
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0ssVRAtYdUMnXcqP64QeGw"
+        } ]
+}
+    

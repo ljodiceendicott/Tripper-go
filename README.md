@@ -1,6 +1,38 @@
-# Welcome to your Expo app 👋
+# Tripper Go
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+
+## What is this?
+This is an interative project that is built in React native, that will allow for users to plan a trip and have a visual representation of where each song will be played.
+
+This is built w/ React Native and uses the Google Maps Api as well as the Spotify API to get the tools that are needed
+
+
+### Current status
+#### API connections
+[ ] - Google Maps API
+   [ ] - Connect to Google API 
+   [ ] - Current location
+   [ ] - trip planner API
+   [ ] - Get data for how long the trip will be
+   [ ] - Guesstimate how many songs
+   [ ] - gather user inputs
+   [ ] - highlight trip with lines
+   [ ] - seperate each section of trip based on songs (need this returned by Spotify API)
+   
+[ ] - Connect to Spotify API
+   [X] - Get sample data
+   [ ] - show this data on page
+   [ ] - Get user's playlists
+   [ ] - Get songs on selected playlists
+   [ ] - map out what the songs that will be playing when
+
+#### Planning 
+[X] - Wireframe of UI
+[X] - sketch out Wireframe
+
+
 
 ## Get started
 
@@ -41,10 +73,3 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

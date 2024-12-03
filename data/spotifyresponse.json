@@ -1,0 +1,230 @@
+{
+  "href": "https://api.spotify.com/v1/users/pukelodice/playlists?offset=0&limit=5&locale=en-US,en;q%3D0.9,de;q%3D0.8",
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/users/pukelodice/playlists?offset=5&limit=5&locale=en-US,en;q%3D0.9,de;q%3D0.8",
+  "offset": 0,
+  "previous": null,
+  "total": 123,
+  "items": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0ssVRAtYdUMnXcqP64QeGw"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0ssVRAtYdUMnXcqP64QeGw",
+      "id": "0ssVRAtYdUMnXcqP64QeGw",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84891c2687f798a42a3c1a74bf",
+          "width": null
+        }
+      ],
+      "name": "TPNE - My Deluxe",
+      "owner": {
+        "display_name": "pukelodice",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/pukelodice"
+        },
+        "href": "https://api.spotify.com/v1/users/pukelodice",
+        "id": "pukelodice",
+        "type": "user",
+        "uri": "spotify:user:pukelodice"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAOo9aN7IxeH+9eLLAfCLkt5TatZIV",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0ssVRAtYdUMnXcqP64QeGw/tracks",
+        "total": 55
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0ssVRAtYdUMnXcqP64QeGw"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7lHG5ErGWA7zOYl6CtSjcT"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7lHG5ErGWA7zOYl6CtSjcT",
+      "id": "7lHG5ErGWA7zOYl6CtSjcT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02072e9faef2ef7b6db63834a3ab67616d00001e025b4bee4c0dfe7f1ec4b2cc6dab67616d00001e0284a5651f3ab1604570ea0405ab67616d00001e02f7db43292a6a99b21b51d5b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02072e9faef2ef7b6db63834a3ab67616d00001e025b4bee4c0dfe7f1ec4b2cc6dab67616d00001e0284a5651f3ab1604570ea0405ab67616d00001e02f7db43292a6a99b21b51d5b4",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02072e9faef2ef7b6db63834a3ab67616d00001e025b4bee4c0dfe7f1ec4b2cc6dab67616d00001e0284a5651f3ab1604570ea0405ab67616d00001e02f7db43292a6a99b21b51d5b4",
+          "width": 60
+        }
+      ],
+      "name": "Preparty",
+      "owner": {
+        "display_name": "pukelodice",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/pukelodice"
+        },
+        "href": "https://api.spotify.com/v1/users/pukelodice",
+        "id": "pukelodice",
+        "type": "user",
+        "uri": "spotify:user:pukelodice"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAOJEJcgqvBXrk3nGJzKz7FUF5cpsh",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7lHG5ErGWA7zOYl6CtSjcT/tracks",
+        "total": 129
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7lHG5ErGWA7zOYl6CtSjcT"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1TKoUv3G5KimHJ2AEAnPzh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1TKoUv3G5KimHJ2AEAnPzh",
+      "id": "1TKoUv3G5KimHJ2AEAnPzh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0243fdb33d0ec7446058ca1bdeab67616d00001e02d3c7bbe8c5d6af6e7c5ade3bab67616d00001e02e55a3924103c132fd3fdc480ab67616d00001e02fa6cb999d8e9581664aa293c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0243fdb33d0ec7446058ca1bdeab67616d00001e02d3c7bbe8c5d6af6e7c5ade3bab67616d00001e02e55a3924103c132fd3fdc480ab67616d00001e02fa6cb999d8e9581664aa293c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0243fdb33d0ec7446058ca1bdeab67616d00001e02d3c7bbe8c5d6af6e7c5ade3bab67616d00001e02e55a3924103c132fd3fdc480ab67616d00001e02fa6cb999d8e9581664aa293c",
+          "width": 60
+        }
+      ],
+      "name": "Release",
+      "owner": {
+        "display_name": "pukelodice",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/pukelodice"
+        },
+        "href": "https://api.spotify.com/v1/users/pukelodice",
+        "id": "pukelodice",
+        "type": "user",
+        "uri": "spotify:user:pukelodice"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAABq+Vq7GkIHG75AkfVqn4VWFSD7oC",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1TKoUv3G5KimHJ2AEAnPzh/tracks",
+        "total": 22
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1TKoUv3G5KimHJ2AEAnPzh"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4XRPbXE5S9FsRnedAmdo1o"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4XRPbXE5S9FsRnedAmdo1o",
+      "id": "4XRPbXE5S9FsRnedAmdo1o",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021c4ed367e83f729afd88563aab67616d00001e025ee49ab49b7d8d263c8fb4ccab67616d00001e02ab225b8d3354d9a73bf9e6b0ab67616d00001e02ec71ab9f80af7052862f7b34",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021c4ed367e83f729afd88563aab67616d00001e025ee49ab49b7d8d263c8fb4ccab67616d00001e02ab225b8d3354d9a73bf9e6b0ab67616d00001e02ec71ab9f80af7052862f7b34",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021c4ed367e83f729afd88563aab67616d00001e025ee49ab49b7d8d263c8fb4ccab67616d00001e02ab225b8d3354d9a73bf9e6b0ab67616d00001e02ec71ab9f80af7052862f7b34",
+          "width": 60
+        }
+      ],
+      "name": "August 2024",
+      "owner": {
+        "display_name": "pukelodice",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/pukelodice"
+        },
+        "href": "https://api.spotify.com/v1/users/pukelodice",
+        "id": "pukelodice",
+        "type": "user",
+        "uri": "spotify:user:pukelodice"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAERWAwXiSt3OgsFU+GDD3HnnVHp59",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4XRPbXE5S9FsRnedAmdo1o/tracks",
+        "total": 45
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4XRPbXE5S9FsRnedAmdo1o"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2L2FB2KE28jQeDv9D9UDkS"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2L2FB2KE28jQeDv9D9UDkS",
+      "id": "2L2FB2KE28jQeDv9D9UDkS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0241f072721ae129f9547f6b8cab67616d00001e024d31eb0cbf82e53266958768ab67616d00001e0250758ff17c332b95132aa1abab67616d00001e026efd3bd56b659fdc677ffa34",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0241f072721ae129f9547f6b8cab67616d00001e024d31eb0cbf82e53266958768ab67616d00001e0250758ff17c332b95132aa1abab67616d00001e026efd3bd56b659fdc677ffa34",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0241f072721ae129f9547f6b8cab67616d00001e024d31eb0cbf82e53266958768ab67616d00001e0250758ff17c332b95132aa1abab67616d00001e026efd3bd56b659fdc677ffa34",
+          "width": 60
+        }
+      ],
+      "name": "Summer 2024",
+      "owner": {
+        "display_name": "pukelodice",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/pukelodice"
+        },
+        "href": "https://api.spotify.com/v1/users/pukelodice",
+        "id": "pukelodice",
+        "type": "user",
+        "uri": "spotify:user:pukelodice"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAADWnxzpV6pFS1aqLdQW8MsGSfY6oK",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2L2FB2KE28jQeDv9D9UDkS/tracks",
+        "total": 12
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2L2FB2KE28jQeDv9D9UDkS"
+    }
+  ]
+}
